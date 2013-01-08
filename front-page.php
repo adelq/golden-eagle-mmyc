@@ -206,7 +206,7 @@
 	  <?php if (goldeneagle_get_option('goldeneagle_bottomleft_description') != '') { ?>
 	 <p><?php echo stripslashes(goldeneagle_get_option('goldeneagle_bottomleft_description')); ?></p>
 	 <?php } else { ?> 
-     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p><p>when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.</p>
+     <p>MMYC was founded in 1999 as an umbrella organization for Muslim Youth in the midwest.</p><p>MMYC is a non-profit organization established for the youth, by the youth.  Our mission is to please Allah by serving the Muslim Ummah and helping to strengthen faith.  Our goal is to create a unified environment for Muslims all across Midwest America, where youth can come together and establish life long friendships with each other and Allah (SWT).</p>
 	 <?php } ?>
      </div>
      </div>
