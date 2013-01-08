@@ -13,7 +13,7 @@
       <?php if (goldeneagle_get_option('goldeneagle_footertext') != '') { ?>
                             <p class="copyright"><?php echo goldeneagle_get_option('goldeneagle_footertext'); ?></p> 
                         <?php } else { ?>
-                            <p class="copyright">Golden Eagle WordPress Theme Designed by <a href="http://www.inkthemes.com">InkThemes.com</a></p>
+                            <p class="copyright">Designed by: <a href='mailto:aqalieh95@gmail.com'>Adel Qalieh</a></p>
                         <?php } ?>
     </div>
     <!--End Footer-->
