@@ -36,7 +36,7 @@ hr {
 }
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Ubuntu', sans-serif;
-	color:#505050;
+	color:#3C3C3C;
 	text-shadow:0 1px 1px #e3e3e3;
 	font-weight:normal;
 }
@@ -135,7 +135,7 @@ input[type="submit"] {
 }
 #menu li a {
 	position:relative;
-	color:#565656;
+	color:#303030;
 	text-align:center;
 	text-decoration:none;
 	text-transform:capitalize;
@@ -145,10 +145,10 @@ input[type="submit"] {
 	text-shadow:0 1px 0 #b1b1b1;
 }
 #menu li a.selected {
-	color:#296bd6;
+	color:#1555d6;
 }
 #menu li.current_page_item a, #menu a:hover {
-	color:#296bd6;
+	color:#1555d6;
 }
 #menu li ul li a, #menu li ul li a.selected, #menu li ul li a:hover {
 	border:none;
@@ -673,11 +673,11 @@ color:#ecf2f4;
 }
 
 .footer .footer-inner ul li a:hover{
-	color:#79abff;
+	color:#0ff;
 }
  
 a span.two {
-	color:#79abff;
+	color:#0ff;
 	cursor:pointer;
 }
 .footer-bottom ul.footer_menu {
