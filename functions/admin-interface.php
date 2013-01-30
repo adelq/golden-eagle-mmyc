@@ -76,12 +76,6 @@ function goldeneagle_optionsframework_options_page(){
     $options =  goldeneagle_get_option('of_template');      
     $themename =  goldeneagle_get_option('of_themename');
 ?>
-	   <div class="trail-notify">
-        <h1><?php _e( 'Get Golden Eagle Responsive Theme PRO!', 'golden-eagle' ); ?></h1>
-        <p><?php _e( 'You are Using the FREE Version of golden eagle Theme. Upgrade to Pro Version for extra features, Contact Page Template, Gallery Page, Multiple Color Skins, Full Featured Slider, Premium Support and much more.', 'golden-eagle' ); ?> </p>
-        <a href="http://www.inkthemes.com/wp-themes/golden-eagle-wordpress-theme/" target="blank"><?php _e( 'Upgrade to Golden Eagle Theme PRO &rarr;', 'golden-eagle' ); ?></a>
-
-    </div>
 <div class="wrap" id="of_container">
   <div id="of-popup-save" class="of-save-popup">
     <div class="of-save-save">Options Updated</div>
